@@ -1,0 +1,192 @@
+footer {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 4px 3px rgba(0, 0, 0, 0.3) inset;
+    padding: 10px 0;
+}
+
+footer nav.footer_nav ul {
+    list-style: outside none none;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+footer nav.footer_nav ul li {
+    float: left;
+    text-align: center;
+    width: 25%;
+}
+
+footer nav.footer_nav ul li a {
+    border-bottom: 1px dashed #a8a4a4;
+    color: #a8a4a4;
+    display: inline-block;
+    padding: 4px 0;
+    text-decoration: none;s
+}
+
+footer div.phone {
+    background: rgba(0, 0, 0, 0) url("../img/header_phone.jpg") no-repeat scroll 0 1px;
+    font-weight: 600;
+}
+
+footer div.time {
+    background: rgba(0, 0, 0, 0) url("../img/header_time.jpg") no-repeat scroll 0 1px;
+}
+
+footer div.mail {
+    background: rgba(0, 0, 0, 0) url("../img/header_mail.jpg") no-repeat scroll 0 1px;
+}
+
+footer div.phone, footer div.time, footer div.mail, footer div.webart {
+    color: #454a4a;
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 0 0 35px;
+    text-align: left;
+}
+
+section#lp_selector{
+    width: 100%;
+    height: 250px;
+    padding: 0;
+    box-shadow: rgba(0,0,0,0.75) 0 0 6px inset;
+    background: url('../img/lp_selector.jpg') 50% 0 repeat;
+}
+
+.my_nav{
+    background-color: #00bfbd !important;
+    border-color: #e7e7e7;
+    margin-bottom: 0px !important;
+}
+.my_nav a.navbar-brand{
+    padding: 0px !important;
+}
+.my_container{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+#logo{
+  width: 50px;
+}
+
+.my_col{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	height: 240px;
+    overflow: hidden;
+}
+
+.good_list li{
+	background: rgba(0, 0, 0, 0) url("../img/50x50.jpg") no-repeat scroll 0 0;
+    font-size: 16px;
+    margin: 10px 0;
+    min-height: 32px;
+    padding: 0 0 0 40px;
+	
+	list-style: outside none none;
+}
+
+.placecontent-home_central ul li, ul.marker li {
+    background: rgba(0, 0, 0, 0) url("../img/list.jpg") no-repeat scroll 0 0;
+    font-size: 16px;
+    margin: 10px 0;
+    min-height: 32px;
+    padding: 0 0 0 40px;
+}
+.placecontent-home_central ul, ul.marker li{
+    list-style: outside none none;
+}
+
+.subscribe_form-big {
+    background: #00bdbf url("../img/line.jpg") repeat-x scroll 0 0;
+    padding: 20px;
+}
+
+.subscribe_form-big h2 {
+    color: #fff;
+    font-size: 40px;
+    margin: 10px 0;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(5, 162, 164, 0.75);
+}
+
+.subscribe_form-big p {
+    color: #fff;
+    font-size: 20px;
+}
+
+.subscribe_form-big form {
+    margin: 40px 0;
+}
+
+.subscribe_form-big .infoblock {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+
+.subscribe_form-big form label {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    margin-left: 20px;
+}
+
+.subscribe_form-big .infoblock span {
+    color: #ffc683;
+    font-weight: 600;
+}
+
+#main_hr{
+	color: grey;
+	border-style: solid none;
+	border-width: 2px 0;;
+}
+
+section#content_about_1 {
+    background: rgba(0, 0, 0, 0) url("../img/about1.jpg") no-repeat scroll 0 50%;
+    height: 640px;
+    padding: 120px 0 0 400px;
+}
+
+.couching_skype {
+    border-bottom: 2px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+    height: 160px;
+    padding: 0 10px 20px;
+}
+
+.couching_time {
+    border-bottom: 2px solid #e3e3e3;
+    border-left: 1px solid #e3e3e3;
+    height: 160px;
+    padding: 0 10px 20px;
+}
+
+.couching_price {
+    background: #a3c71b none repeat scroll 0 0;
+    border: 6px solid #e4efbd;
+    color: #333;
+    padding: 10px;
+}
+
+.couching_price.couching_price_blue {
+    background: #00bdbf none repeat scroll 0 0;
+    border: 6px solid #b5ecec;
+}
+
+.italic_text {
+    font-style: italic;
+    margin: 20px 0;
+    text-align: center;
+}
+
+#info .italic_text h3 {
+    font-style: italic;
+    text-align: center;
+	color: #00bdbf;
+    font-size: 26px;
+    margin: 0 0 20px;
+}
